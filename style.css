@@ -11,6 +11,7 @@ body {
   background-image: url('memeEconIcon.gif');
   background-attachment: fixed;
   color: white;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
 }
 h1 {
    color: white;
