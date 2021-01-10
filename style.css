@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  margin: auto;
+  max-width: 1280px;
+  padding-left: 5em;
+  padding-right: 5em;
+  background-color: magenta;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('memeEconIcon.gif');
+  background-attachment: fixed;
+}
+}
+h1 {
+  /*color: red;*/
+  font-family: sans-serif;
+  text-align: center;
+  color: red;
+  font-family: Comic Sans MS;
+  font-size: 178px;
+  font-weight: bold;
+  font-style: italic;
+}
